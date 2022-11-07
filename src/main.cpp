@@ -9,6 +9,7 @@ int add(int x, int y)
 int main()
 {
     cout<<"Hello Jenkins!"<<endl;
+    cout<<add(a,b)<<endl;
 
     cout<<add(5,6)<<endl;
     return 0;
