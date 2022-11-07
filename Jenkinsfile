@@ -32,7 +32,9 @@ pipeline {
         }
     }
     stage("test") {
+    steps {
        sh "cmake CMakeLists.txt && make && ./executeTests"
+            }
             }
         
 
