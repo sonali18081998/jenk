@@ -1,0 +1,3 @@
+/home/jangoo/Desktop/New Folder 3/jenk/sw/CMakeFiles/executeTests.dir
+/home/jangoo/Desktop/New Folder 3/jenk/sw/CMakeFiles/edit_cache.dir
+/home/jangoo/Desktop/New Folder 3/jenk/sw/CMakeFiles/rebuild_cache.dir

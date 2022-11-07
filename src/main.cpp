@@ -1,16 +1,12 @@
-#include <iostream>
-using namespace std;
+#include <math.h>
+ 
+// Get the Square root of a number. 
+double squareRoot(const double a) 
+    {
+    double b = sqrt(a);
+    if(b != b) // NaN check
+        { return -1.0; }
+    else
+        { return sqrt(a); }
+    }
 
-int add(int x, int y)
-{
-    return x+y;
-}
-
-int main()
-{	int a, b;
-    cout<<"Hello Jenkins!"<<endl;
-    cout<<add(a,b)<<endl;
-
-    cout<<add(5,6)<<endl;
-    return 0;
-}
