@@ -7,7 +7,7 @@ int add(int x, int y)
 }
 
 int main()
-{
+{	int a, b;
     cout<<"Hello Jenkins!"<<endl;
     cout<<add(a,b)<<endl;
 
